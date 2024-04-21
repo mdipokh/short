@@ -1,0 +1,23 @@
+{
+  "name": "mdipokh-one",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mdipokh/short.git"
+  },
+  "license": "ISC", 
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+  	"mdipokh": "^1.0.0",
+	"ck698563": "^1.0.0",
+  	"layidp": "^1.0.0",
+	"layidp-one": "^1.0.0",
+  	"guzibiji": "^1.0.0"
+  },
+  "author": "",
+  "license": "ISC"
+}
